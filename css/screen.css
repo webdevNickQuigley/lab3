@@ -1,0 +1,53 @@
+html{
+  background-color: #cbcbcb;
+}
+h1{
+  display: block;
+  text-align: center;
+  font-size: 200%;
+  margin-top: 10%;
+}
+p
+{
+  display: block;
+  text-align: center;
+  font-size: 100%;
+  margin: 10%;
+  background-color: #f0f0f0;
+  padding: 5%;
+  border-top-left-radius: 10%;
+}
+#input-email{
+  display: block;
+  text-align: left;
+  font-size: 90%;
+  margin: 5%;
+  background-color: #f0f0f0;
+  padding: 7%;
+  border-radius: 3px;
+}
+#email{
+  width: 100%;
+}
+#input-age-verification{
+  display: block;
+  text-align: left;
+  font-size: 100%;
+  margin: 5%;
+  background-color:  #f0f0f0;
+  padding: 7%;
+  border-radius: 3px;
+}
+#input-submit{
+  display: block;
+  text-align: center;
+}
+#submit{
+  background-color: #666;
+  color: #fff;
+  margin: 10%;
+  padding: 3%;
+}
+#submit:hover{
+  color:#999595;
+}
