@@ -1,5 +1,6 @@
 html{
   background-color: #cbcbcb;
+  font-family: 'Roboto', Arial, sans-serif;
 }
 h1{
   display: block;
@@ -12,7 +13,7 @@ p
   display: block;
   text-align: center;
   font-size: 100%;
-  margin: 10%;
+  margin: 5%;
   background-color: #f0f0f0;
   padding: 5%;
   border-top-left-radius: 10%;
